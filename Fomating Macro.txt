@@ -2,9 +2,8 @@
 Sub FormatStylePro()
 ' ACTION PLAN TO TACKLE FORMATING ERROR IN CODING AND DURING QA
 ' PLANING TEAM: Prasad Jadhav, Bijo Babu, Nishant Shah, Stanly Leon
-' FEEDBACK TEAM: Shraddha Kale, Yuvraj Ghatge, Saiesh Naik, Sonal Chavan
 ' TRAINER: Darshan Hingu
-' DEVELOPER: Jitesh Bagshare, Faizen Shaik, Niraj Choudhary
+' DEVELOPER:Niraj Choudhary
 '
 ' FormatStylePro Macro: This version is only for professional
 '
